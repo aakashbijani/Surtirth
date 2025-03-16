@@ -3,6 +3,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 120%;
     line-height: 1.5;
+    background: linear-gradient(180deg, #f8e8a6, #c49b63);
 }
 header img {
    width: 10%;
